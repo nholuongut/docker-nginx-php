@@ -32,4 +32,4 @@ It uses Supervisord (http://supervisord.org/) to start nginx, PHP FPM, Postfix a
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
 
 ![](https://i.imgur.com/waxVImv.png)
-![](Donate.png)
+![](Donate.jpg)
